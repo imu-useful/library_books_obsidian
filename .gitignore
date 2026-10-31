@@ -1,0 +1,23 @@
+# Obsidian: per-device state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
+
+# Obsidian trash and sync artifacts
+.trash/
+.obsidian-sync/
+*.sync-conflict-*
+
+# Local secrets (never commit)
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
